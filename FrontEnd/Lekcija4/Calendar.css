@@ -1,0 +1,22 @@
+#container1 {
+    float: right;
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    width: 1530px;
+    height: 1795px;
+    background: white;
+    border: 1px solid blue;
+}
+
+
+
+#container2 {
+    float: left;
+    position: absolute;
+    display: block;
+    width: 800px;
+    height: 1795px;
+    background: rgba(42, 46, 65, 0.7);
+    border: 1px solid blue;
+}
